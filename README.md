@@ -3,7 +3,7 @@
 트위터의 한 계정 WeRateDogs(강아지 사진과 그에 대한 평가점수를 남기는 계정)의 트윗 데이터를 전처리하고 분석하는 프로젝트.
 
 
-![Alt text](C:\test\WeRateDogs(Tweet_ex))
+![Alt image](C:\test\WeRateDogs(Tweet_ex).jpg)
 
 __Analysis_report__: 분석을 통한 인사이트 리포트  
 
