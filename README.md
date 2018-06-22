@@ -1,6 +1,6 @@
 # Twitter_Data_wrangling_and_Analysis
 
-트위터의 한 계정 WeRateDogs(강아지 사진과 그에 대한 평가점수를 남기는 계정)의 트윗 데이터를 추출하고 전처리해서 분석하는 프로젝트.
+트위터의 한 계정 WeRateDogs(강아지 사진과 그에 대한 평가점수를 남기는 계정)의 트윗 데이터(2,300여개)를 추출하고 전처리해서 분석하는 프로젝트.
 
 <p align="center">
 <img src="https://github.com/JINSOO-PHILIP-KIM/Twitter_Data_wrangling_and_Analysis/blob/master/WeRateDogs_ex.png" width="500">  
