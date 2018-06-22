@@ -1,9 +1,9 @@
 # Twitter_Data_wrangling_and_Analysis
 
 트위터의 한 계정 WeRateDogs(강아지 사진과 그에 대한 평가점수를 남기는 계정)의 트윗 데이터를 전처리하고 분석하는 프로젝트.
-
-![WeRateDogs 예시사진](https://github.com/JINSOO-PHILIP-KIM/Twitter_Data_wrangling_and_Analysis/blob/master/WeRateDogs_ex.png "Logo Title Text 1")
-
+<img width="4" height="3">
+![WeRateDogs 예시사진](https://github.com/JINSOO-PHILIP-KIM/Twitter_Data_wrangling_and_Analysis/blob/master/WeRateDogs_ex.png "Title Text 1")
+</img>
 
 __Analysis_report__: 분석을 통한 인사이트 리포트  
 
