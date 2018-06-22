@@ -3,7 +3,10 @@
 트위터의 한 계정 WeRateDogs(강아지 사진과 그에 대한 평가점수를 남기는 계정)의 트윗 데이터를 전처리하고 분석하는 프로젝트.
 
 
-<img src="https://github.com/JINSOO-PHILIP-KIM/Twitter_Data_wrangling_and_Analysis/blob/master/WeRateDogs_ex.png" width="500>
+<img src="https://github.com/JINSOO-PHILIP-KIM/Twitter_Data_wrangling_and_Analysis/blob/master/WeRateDogs_ex.png" width="500">
+<center>센터?</center>
+
+
 
 #### 트위터 WeRateDogs의 예시.png
 
