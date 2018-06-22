@@ -1,5 +1,7 @@
 # Twitter_Data_wrangling_and_Analysis
 
+트위터의 WeRateDogs(강아지 사진과 그에 대한 평가점수를 남기는 계정) 계정의 트윗 데이터를 전처리하고 분석하는 프로젝트.
+
 __Analysis_report__: 분석을 통한 인사이트 리포트  
 
 __image-predictions.tsv__: Udacity에서 제공한 일부 트윗에 대한 개 품종 예측  
@@ -12,4 +14,4 @@ __twitter-archive-enhanced.csv__: Udacity에서 제공한 일정 기간 사이�
 
 __Wrangling&Analysis.ipynb__: 파이썬을 활용한 데이터 탐색 및 전처리 및 분석  
 
-__wrangle_report.pdf__: 전처리가 필요한 항목 및 액션 리포트 
+__wrangle_report.pdf__: 전처리가 필요한 항목 및 액션 리포트
