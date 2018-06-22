@@ -1,6 +1,6 @@
 # Twitter_Data_wrangling_and_Analysis
 
-트위터의 WeRateDogs(강아지 사진과 그에 대한 평가점수를 남기는 계정) 계정의 트윗 데이터를 전처리하고 분석하는 프로젝트.
+트위터의 한 계정 WeRateDogs(강아지 사진과 그에 대한 평가점수를 남기는 계정)의 트윗 데이터를 전처리하고 분석하는 프로젝트.
 
 __Analysis_report__: 분석을 통한 인사이트 리포트  
 
