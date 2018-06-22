@@ -2,6 +2,10 @@
 
 트위터의 한 계정 WeRateDogs(강아지 사진과 그에 대한 평가점수를 남기는 계정)의 트윗 데이터를 전처리하고 분석하는 프로젝트.
 
+
+![Alt text](C:\Users\Waker\Google 드라이브(1)\Class matrials\DAND2\9. Data Story Telling (24h) Due. 16 Apr\WeRateDogs ex.jpg)
+WeRateDog의 예시
+
 __Analysis_report__: 분석을 통한 인사이트 리포트  
 
 __image-predictions.tsv__: Udacity에서 제공한 일부 트윗에 대한 개 품종 예측  
