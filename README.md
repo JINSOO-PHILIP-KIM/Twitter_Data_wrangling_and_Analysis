@@ -9,6 +9,9 @@
 <p align="center">
 트위터 WeRateDogs의 예시.png
 </p>
+<p align="center">
+(12/10 처럼 10점 만점에 많은 경우 10점 넘게 점수를 주는 것이 이 트위터 계정의 특징입니다.)
+</p>
 
 __Analysis_report__: 분석을 통한 인사이트 리포트  
 
