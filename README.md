@@ -5,13 +5,10 @@
 <p align="center">
 <img src="https://github.com/JINSOO-PHILIP-KIM/Twitter_Data_wrangling_and_Analysis/blob/master/WeRateDogs_ex.png" width="500">  
 </p>
+
 <p align="center">
-__트위터 WeRateDogs의 예시.png__
-
+트위터 WeRateDogs의 예시.png
 </p>
-
-
-
 
 __Analysis_report__: 분석을 통한 인사이트 리포트  
 
